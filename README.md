@@ -15,9 +15,8 @@ This repository contains the replication of the Tem-Adapter model, which adapts 
 - **utils.py**: Contains utility functions used across the project.
 - **validate.py**: Script for evaluating the trained model's performance.
 
-
 ## Environment Setup
-
+Follow the below steps to run locally or go through the Project.ipynb file for running the code on Google Colab.
 1. Install PyTorch (should install [miniconda](https://docs.conda.io/en/latest/miniconda.html) first):
 
 ```bash
