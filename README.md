@@ -1,4 +1,4 @@
-# Replicated_TemAdapter (CSE 587 - Vision & Language - Project)
+# Replicated_TemAdapter (CSE 597 - Vision & Language - Project)
 This repository contains the replication of the Tem-Adapter model, which adapts image-text pretraining for video question answering. The original implementation is detailed in the [Tem-Adapter repository](https://github.com/XLiu443/Tem-adapter).
 
 ## Repository Structure
