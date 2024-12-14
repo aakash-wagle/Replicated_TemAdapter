@@ -133,9 +133,7 @@ Tem-adapter/
 |–– ...
 ```
 
-3. Uncomment related lines in the 'validate.py' (Check the file for further reference).
-
-4. To evaluate the trained model, run the following command:
+3. To evaluate the trained model, run the following command:
 
 ```bash
 python validate.py --cfg configs/sutd-traffic_transition.yml
